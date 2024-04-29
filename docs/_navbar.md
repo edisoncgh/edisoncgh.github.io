@@ -1,4 +1,3 @@
 <!-- _navbar.md -->
-
-* [首页](/)
-* [友情链接](/frilinks)
+- [首页](/README.md)
+- [友链](/frilinks.md)
